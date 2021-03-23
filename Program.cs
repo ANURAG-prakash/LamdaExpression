@@ -10,6 +10,7 @@ namespace PracticingLamdaExpression
         {
             List<Person> listPersonInCity = new List<Person>();
             AddRecords(listPersonInCity);
+             Retrirving_topTwoRecord_ForAgels_LessThanSixty(listPersonInCity);
         }
         private static void AddRecords(List<Person> listPersonInCity)
         {
@@ -22,9 +23,17 @@ namespace PracticingLamdaExpression
             listPersonInCity.Add(new Person("203456882", "Winston", "1208 Alex st, Newyork,NY", 65));
             listPersonInCity.Add(new Person("203456883", "Mac", "126 Province Ave, Baltimore,NY", 85));
             listPersonInCity.Add(new Person("203456884", "SAM", "126 Province Ave, Baltimore,NY", 95));
-            // Console.WriteLine(listPersonInCity.ToString());
-            // listPersonInCity.ForEach(x => Console.WriteLine("{0}\t",x.Name.ToString()));
+          
 
         }
+          private static void Retrirving_topTwoRecord_ForAgels_LessThanSixty(List<Person> listPersonsInCity)
+        {
+            foreach (Person person in listPersonsInCity.FindAll(e => (e.Age > 60)).Take(2).ToList())
+            {
+                Console.WriteLine("Name : " + person.Name + "       Age  : " + person.Age);
+
+            }
+
+        
     }
 }
