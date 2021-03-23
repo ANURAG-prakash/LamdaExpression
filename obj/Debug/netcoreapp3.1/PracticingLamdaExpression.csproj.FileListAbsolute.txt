@@ -1,0 +1,13 @@
+C:\Users\praka\OneDrive\Desktop\hghg\PracticingLamdaExpression\PracticingLamdaExpression\bin\Debug\netcoreapp3.1\PracticingLamdaExpression.exe
+C:\Users\praka\OneDrive\Desktop\hghg\PracticingLamdaExpression\PracticingLamdaExpression\bin\Debug\netcoreapp3.1\PracticingLamdaExpression.deps.json
+C:\Users\praka\OneDrive\Desktop\hghg\PracticingLamdaExpression\PracticingLamdaExpression\bin\Debug\netcoreapp3.1\PracticingLamdaExpression.runtimeconfig.json
+C:\Users\praka\OneDrive\Desktop\hghg\PracticingLamdaExpression\PracticingLamdaExpression\bin\Debug\netcoreapp3.1\PracticingLamdaExpression.runtimeconfig.dev.json
+C:\Users\praka\OneDrive\Desktop\hghg\PracticingLamdaExpression\PracticingLamdaExpression\bin\Debug\netcoreapp3.1\PracticingLamdaExpression.dll
+C:\Users\praka\OneDrive\Desktop\hghg\PracticingLamdaExpression\PracticingLamdaExpression\bin\Debug\netcoreapp3.1\PracticingLamdaExpression.pdb
+C:\Users\praka\OneDrive\Desktop\hghg\PracticingLamdaExpression\PracticingLamdaExpression\obj\Debug\netcoreapp3.1\PracticingLamdaExpression.csprojAssemblyReference.cache
+C:\Users\praka\OneDrive\Desktop\hghg\PracticingLamdaExpression\PracticingLamdaExpression\obj\Debug\netcoreapp3.1\PracticingLamdaExpression.AssemblyInfoInputs.cache
+C:\Users\praka\OneDrive\Desktop\hghg\PracticingLamdaExpression\PracticingLamdaExpression\obj\Debug\netcoreapp3.1\PracticingLamdaExpression.AssemblyInfo.cs
+C:\Users\praka\OneDrive\Desktop\hghg\PracticingLamdaExpression\PracticingLamdaExpression\obj\Debug\netcoreapp3.1\PracticingLamdaExpression.csproj.CoreCompileInputs.cache
+C:\Users\praka\OneDrive\Desktop\hghg\PracticingLamdaExpression\PracticingLamdaExpression\obj\Debug\netcoreapp3.1\PracticingLamdaExpression.dll
+C:\Users\praka\OneDrive\Desktop\hghg\PracticingLamdaExpression\PracticingLamdaExpression\obj\Debug\netcoreapp3.1\PracticingLamdaExpression.pdb
+C:\Users\praka\OneDrive\Desktop\hghg\PracticingLamdaExpression\PracticingLamdaExpression\obj\Debug\netcoreapp3.1\PracticingLamdaExpression.genruntimeconfig.cache
